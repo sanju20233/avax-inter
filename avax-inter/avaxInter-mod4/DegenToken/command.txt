@@ -1,0 +1,2 @@
+$ npx hardhat verify <contract address> <arguments> --network <network>
+$ npx hardhat run scripts/mint.js --network fuji
